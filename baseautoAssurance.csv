@@ -1,0 +1,185 @@
+name,selling_price,year,km_driven,carrosserie,engine,fuel,seats,transmission,prix_assuran,type_ass
+Mini 3 portes,"63,500",2016,61000,Coupé,4,Essence,5,Manuel,979336,routiere+options
+Renault Laguna,"64,500",2011,"150,000",Berline,6,Diesel,5,Manuel,1053486,routiere+options
+Volkswagen Golf 7,"65,500",2016,"72,000",Utilitaire,5,Essence,5,Manuel,1059209,routiere+options
+Mercedes-Benz 200,"66,500",2003,"230,000",Berline,10,Essence,5,Manuel,1133332,routiere+options
+Toyota GT86,"67,500",2014,"49,000",Utilitaire,12,Essence,5,Manuel,1509536,dommage et collision
+Seat Ibiza,"68,500",2016,"93,000",Compacte,4,Essence,5,Manuel,3482059,tout risque
+Jaguar XF,"69,500",2017,"48,000",Berline,15,Essence,5,Manuel,1356340,routiere+options
+Chevrolet Aveo,"70,500",2011,"260,000",Berline,5,Essence,5,Manuel,1065120,routiere+options
+Peugeot 3008,"71,500",2021,"26,000",Pick up,7,Essence,5,Manuel,1263452,dommage et collision
+Jaguar XE,"72,500",2018,"35,000",Berline,9,Diesel,5,Manuel,1189231,routiere+options
+Renault Symbol,"73,500",2017,"52,000",Berline,5,Essence,5,Manuel,1078215,routiere+options
+Land Rover Range Rover Sport,"74,500",2016,"130,000",4 x 4,19,Diesel,5,Manuel,2003624,dommage et collision
+Land Rover Range Rover Sport,"75,500",2008,"360,000",4 x 4,13,Diesel,5,Manuel,1619520,dommage et collision
+Porsche Cayenne,"76,500",2017,"48,000",4 x 4,20,Essence,5,Manuel,1563470,routiere+options
+Porsche Cayenne,"77,500",2012,"198,000",4 x 4,21,Essence,5,Manuel,4207248,tout risque
+Audi Q3,"78,500",2012,"129,000",4 x 4,10,Diesel,5,Manuel,1243380,routiere+options
+BMW X1,"79,500",2017,"130,000",Pick up,7,Essence,5,Manuel,1289541,dommage et collision
+KIA Rio Berline,"80,500",2017,"80,000",Berline,5,Essence,5,Manuel,1097518,routiere+options
+Mazda 3,"81,500",2019,"50,000",Utilitaire,6,Essence,5,Manuel,3634972,tout risque
+Volkswagen Golf 7,"82,500",2016,"150,000",Citadine,5,Diesel,5,Manuel,1098700,routiere+options
+BMW Série 3,"83,500",2015,"116,000",Compacte,7,Essence,5,Manuel,1299702,dommage et collision
+Volkswagen Passat,"84,500",2010,"270,000",Citadine,5,Diesel,5,Manuel,1253620,dommage et collision
+Volkswagen Polo Sedan,"85,500",2017,"140,000",Citadine,5,Essence,5,Manuel,1302209,dommage et collision
+Skoda Octavia,"86,500",2015,"106,000",Berline,7,Essence,5,Manuel,1198302,routiere+options
+Suzuki Baleno,"87,500",2017,"66,800",Coupé,5,Essence,5,Manuel,1099602,routiere+options
+Peugeot 308,"88,500",2016,"140,000",Compacte,5,Essence,5,Manuel,1099851,routiere+options
+Volkswagen Golf 7,"89,500",2016,"80,000",Citadine,5,Essence,5,Manuel,3015134,tout risque
+Alfa Romeo Giulietta,"90,500",2015,"90,000",Compacte,7,Essence,5,Manuel,3694604,tout risque
+KIA Picanto,"91,500",2016,"80,000",Citadine,5,Essence,5,Manuel,3020130,tout risque
+Hyundai i20,"92,500",2018,"80,000",Citadine,5,Essence,5,Manuel,3023141,tout risque
+Volkswagen Polo,"93,500",2018,"90,000",Citadine,4,Essence,5,Manuel,1099920,routiere+options
+Volkswagen Golf 7,"94,500",2015,"74,000",Berline,5,Essence,5,Manuel,1288420,dommage et collision
+Audi Q3,"95,500",2017,"100,500",4 x 4,8,Essence,5,Manuel,3802301,tout risque
+Audi A6,"96,500",2013,"177,000",Berline,10,Essence,5,Manuel,1273328,routiere+options
+Porsche Panamera,"97,500",2014,"65,000",Berline,24,Essence,5,Manuel,1563671,routiere+options
+Peugeot 207,"98,500",2008,"160,000",Citadine,6,Essence,5,Manuel,1153850,dommage et collision
+Land Rover Range Rover,"99,500",2016,"67,000",4 x 4,47,Essence,5,Manuel,7207248,tout risque
+KIA Picanto,"100,500",2021,"12,000",Citadine,5,Essence,5,Manuel,1288434,routiere+options
+Fiat Tipo 5 portes,"101,500",2020,"12,000",Compacte,6,Essence,5,Manuel,1153877,dommage et collision
+Land Rover Range Rover Evoque,"102,500",2014,"152,000",4 x 4,15,Essence,5,Manuel,1553688,routiere+options
+Mercedes-Benz Classe E coupé,"103,500",2017,"102,000",Berline,10,Essence,5,Manuel,1373328,routiere+options
+BMW Série 4 Coupé,"104,500",2015,"84,000",Coupé,10,Essence,5,Manuel,1373420,routiere+options
+Alfa Romeo Brera,"105,500",2008,"131,000",Coupé,13,Diesel,5,Manuel,1420103,routiere+options
+Seat Leon,"106,500",2015,"57,000",Compacte,6,Essence,5,Manuel,3700324,tout risque
+BMW Série 4 Gran Coupé,"107,500",2016,"102,000",Coupé,10,Essence,5,Manuel,6029513,tout risque
+Porsche Cayenne,"108,500",2013,"192,000",4 x 4,23,Essence,5,Manuel,6018524,tout risque
+BMW X6,"109,500",2009,"156,000",4 x 4,15,Diesel,5,Manuel,1553790,routiere+options
+Mercedes-Benz Classe E,"110,500",2016,"120,000",Berline,10,Essence,5,Manuel,6099520,tout risque
+Porsche Cayenne,"111,500",2010,"144,000",4 x 4,31,Essence,5,Manuel,1106196,routiere+options
+Land Rover Range Rover Sport,"112,500",2013,"135,000",4 x 4,16,Essence,5,Manuel,6668402,tout risque
+BMW X3,"113,500",2022,700,4 x 4,8,Diesel,5,Manuel,6028523,tout risque
+Volkswagen Golf 8,"114,500",2020,"10,000",Compacte,8,Essence,5,Manuel,6028530,tout risque
+Land Rover Range Rover Evoque,"115,500",2012,"167,000",4 x 4,15,Essence,5,Manuel,6678435,tout risque
+Fiat 500X,"116,500",2015,"105,000",4 x 4,8,Essence,5,Manuel,2764221,dommage et collision
+Mercedes-Benz GLA,"117,500",2014,"93,000",Compacte,8,Essence,5,Manuel,2774223,dommage et collision
+Land Rover Range Rover Sport,"118,500",2014,"162,000",4 x 4,19,Diesel,5,Manuel,7029524,tout risque
+KIA Sorento,"119,500",2015,"122,000",4 x 4,12,Diesel,5,Manuel,6129513,tout risque
+Volkswagen Golf 6,"120,500",2011,"89,000",Compacte,12,Essence,5,Manuel,6130200,tout risque
+BMW Série 5,"121,500",2012,"130,000",Berline,10,Essence,5,Manuel,2814762,dommage et collision
+Fiat 500,"122,500",2018,"55,000",Autres,4,Essence,5,Manuel,1358434,routiere+options
+Nissan Qashqai,"123,500",2012,"220,000",4 x 4,6,Diesel,5,Manuel,6010200,tout risque
+Mercedes-Benz Classe A,"124,500",2013,"135,000",Compacte,6,Essence,5,Manuel,6010341,tout risque
+Ford F 250,"125,500",2006,"130,000",4 x 4,24,Diesel,5,Manuel,6517530,tout risque
+Audi Q3,"126,500",2017,"101,500",4 x 4,8,Essence,5,Manuel,6029524,tout risque
+Peugeot 208,"127,500",2021,"34,000",Citadine,5,Essence,5,Manuel,1722434,dommage et collision
+Volkswagen Polo,"128,500",2010,"192,500",Citadine,4,Essence,5,Manuel,3644868,tout risque
+Peugeot Bipper Tepee,"129,500",2017,"150,000",Autres,5,Diesel,5,Manuel,3650247,tout risque
+Mercedes-Benz Classe A,"130,500",2015,"80,000",Compacte,7,Essence,5,Manuel,6047513,tout risque
+KIA Rio 5p,"131,500",2014,"136,000",Compacte,5,Essence,5,Manuel,1782130,dommage et collision
+Porsche Cayenne,"132,500",2011,"140,000",4 x 4,15,Diesel,5,Manuel,6624410,tout risque
+Peugeot 207,"133,500",2011,"64,000",Compacte,5,Essence,5,Manuel,3764260,tout risque
+Audi Q7,"134,500",2008,"230,000",4 x 4,16,Diesel,5,Automatic,6670122,tout risque
+Mercedes-Benz Classe E,"135,500",1997,"220,000",Berline,7,Diesel,5,Automatic,6156520,tout risque
+Hyundai Tucson,"136,500",2020,"70,000",Autres,8,Essence,5,Automatic,6202313,tout risque
+Fiat 500X,"137,500",2018,"70,000",Autres,7,Diesel,5,Automatic,6192341,tout risque
+Audi Q7,"138,500",2011,"195,000",4 x 4,15,Diesel,5,Automatic,6675403,tout risque
+Toyota Prado,"139,500",2008,"300,000",4 x 4,11,Diesel,5,Automatic,3012430,dommage et collision
+Porsche Macan,"140,500",2017,"60,000",Autres,15,Essence,5,Automatic,6675410,tout risque
+MG GS,"141,500",2017,"77,000",4 x 4,9,Essence,5,Automatic,6214315,tout risque
+Mercedes-Benz GLC,"142,500",2016,"37,000",4 x 4,12,Essence,5,Automatic,3016533,dommage et collision
+Mercedes-Benz Classe S,"143,500",2007,"125,000",Berline,19,Essence,5,Automatic,6417522,tout risque
+Mercedes-Benz Classe E,"144,500",2016,"39,000",Berline,10,Essence,5,Automatic,6224860,tout risque
+Land Rover Range Rover Evoque,"145,500",2014,"151,000",4 x 4,15,Essence,5,Automatic,6704432,tout risque
+Audi A3 Berline,"146,500",2015,"187,000",Berline,5,Essence,5,Automatic,4028260,tout risque
+Mercedes-Benz Vito,"147,500",2012,"222,000",Autres,9,Diesel,5,Automatic,6234940,tout risque
+Mazda CX-9,"148,500",2017,"70,000",4 x 4,15,Essence,5,Automatic,3152216,dommage et collision
+Audi A3 Berline,"149,500",2014,"105,000",Berline,10,Essence,5,Automatic,6834820,tout risque
+Mercedes-Benz Classe C,"150,500",2014,"290,000",Berline,8,Essence,5,Automatic,6214520,tout risque
+Toyota Previa,"151,500",2007,"169,000",Monospace,11,Essence,5,Automatic,7282771,tout risque
+BMW Série 3,"152,500",2014,"114,000",Berline,7,Essence,5,Automatic,6221620,tout risque
+Nissan Qashqai,"153,500",2014,"125,000",Autres,6,Essence,5,Automatic,6222780,tout risque
+Mazda CX-5,"154,500",2015,"200,000",4 x 4,10,Essence,5,Automatic,3217410,dommage et collision
+Volkswagen Passat,"155,500",2015,"130,000",Berline,6,Diesel,5,Automatic,2911390,dommage et collision
+Mercedes-Benz Classe C,"156,500",2014,"201,000",Berline,8,Essence,5,Automatic,8601633,tout risque
+Audi A4,"157,500",2014,"209,000",Berline,7,Essence,5,Automatic,8601620,tout risque
+Peugeot 2008,"158,500",2014,"114,000",Autres,5,Essence,5,Automatic,4917040,tout risque
+Mazda CX-9,"159,500",2008,"270,000",Autres,20,Essence,5,Automatic,14716522,tout risque
+Ssangyong Tivoli,"160,500",2017,"105,000",Autres,7,Essence,5,Automatic,9402550,tout risque
+Peugeot 308,"161,500",2016,"165,000",Compacte,5,Essence,5,Automatic,2358520,dommage et collision
+Mini 3 portes,"162,500",2013,"140,000",Citadine,4,Essence,5,Automatic,2356541,dommage et collision
+Volkswagen Golf 7,"163,500",2016,"82,000",Compacte,5,Essence,5,Automatic,2359533,dommage et collision
+Fiat 500,"164,500",2015,"55,000",Citadine,4,Essence,5,Automatic,4913082,tout risque
+Ford Ecosport,"165,500",2019,"46,000",Compacte,7,Essence,5,Automatic,9401482,tout risque
+Renault Clio,"166,500",2013,"90,000",Compacte,4,Diesel,5,Automatic,1992541,routiere+options
+Mini Countryman,"167,500",2012,"89,000",Autres,6,Diesel,5,Automatic,4550741,dommage et collision
+BMW Série 3,"168,500",2017,"90,000",Berline,7,Essence,5,Automatic,9421483,tout risque
+Audi A4,"169,500",2016,"150,000",Berline,8,Essence,5,Automatic,9485063,tout risque
+BMW Série 5,"170,500",2018,"30,000",Berline,10,Essence,5,Automatic,9804820,tout risque
+Volkswagen Amarok,"171,500",2014,"93,000",4 x 4,7,Essence,5,Automatic,4660745,dommage et collision
+Land Rover Range Rover Evoque,"172,500",2016,"117,000",4 x 4,8,Diesel,5,Automatic,4661850,dommage et collision
+BMW Série 4 Coupé,"173,500",2016,"84,000",Coupé,10,Essence,5,Automatic,9814820,tout risque
+Land Rover Range Rover Evoque,"174,500",2017,"177,000",4 x 4,8,Diesel,5,Automatic,9523700,tout risque
+Land Rover Range Rover Sport,"175,500",2008,"185,000",4 x 4,13,Diesel,5,Automatic,9910020,tout risque
+Nissan Qashqai,"176,500",2012,"202,000",4 x 4,9,Diesel,5,Automatic,4707410,dommage et collision
+Ford Focus,"177,500",2017,"103,000",Compacte,6,Essence,5,Automatic,4683742,dommage et collision
+Land Rover Discovery Sport,"178,500",2016,"238,000",4 x 4,11,Diesel,5,Automatic,9865130,tout risque
+Renault Twingo,"179,500",2015,"55,000",Compacte,5,Essence,5,Automatic,2556533,dommage et collision
+Nissan Juke,"180,500",2010,"155,000",4 x 4,7,Essence,5,Automatic,4689700,dommage et collision
+Renault Clio,"181,500",2019,"88,000",Berline,5,Essence,5,Automatic,5113066,tout risque
+Renault Captur,"182,500",2014,"100,000",Monospace,6,Essence,5,Automatic,5188700,tout risque
+Volkswagen Polo,"183,500",2004,"150,000",Autres,4,Essence,5,Automatic,5165420,tout risque
+Renault Clio,"184,500",2019,"58,000",Autres,5,Essence,5,Automatic,5175633,tout risque
+Mercedes-Benz Classe C,"185,500",2015,"93,000",Berline,8,Essence,5,Automatic,9580200,tout risque
+Fiat Doblo,"186,500",2016,"123,000",Utilitaire,5,Diesel,5,Automatic,2387816,dommage et collision
+BMW Série 3 coupé,"187,500",2010,"240,000",Coupé,7,Essence,5,Automatic,9579400,tout risque
+Opel Corsa,"188,500",2016,"82,000",Citadine,5,Essence,5,Automatic,2395800,dommage et collision
+Citroën C4,"189,500",2012,"96,000",Berline,7,Essence,5,Automatic,4691200,dommage et collision
+Ford Focus,"190,500",2015,"87,000",Compacte,6,Essence,5,Automatic,9579455,tout risque
+Volkswagen Polo,"191,500",2016,"86,000",Autres,4,Essence,5,Automatic,2382714,dommage et collision
+Volkswagen Golf 7,"192,500",2017,"96,000",Autres,6,Essence,5,Automatic,4589727,dommage et collision
+Mercedes-Benz Classe E,"193,500",2007,"183,000",Autres,11,Essence,5,Automatic,10094130,tout risque
+Opel Corsa,"194,500",2017,"82,000",Coupé,5,Essence,5,Automatic,5275600,tout risque
+Mercedes-Benz Classe E coupé,"195,500",2012,"109,000",Coupé,10,Essence,5,Automatic,10094135,tout risque
+Mercedes-Benz Classe A,"196,500",2011,"69,500",Citadine,6,Essence,5,Automatic,5275785,tout risque
+Peugeot 206,"197,500",2001,"250,000",Citadine,5,Essence,5,Automatic,2031800,routiere+options
+Alfa Romeo Giulietta,"198,500",2011,"114,000",Autres,9,Essence,5,Automatic,10036130,tout risque
+Volkswagen Golf 7,"199,500",2017,"90,000",Autres,6,Essence,5,Automatic,4590700,dommage et collision
+KIA Cerato,"200,500",2014,"121,000",Autres,7,Essence,5,Automatic,4690850,dommage et collision
+KIA Carens,"201,500",2014,"158,000",Autres,8,Diesel,5,Automatic,4691170,dommage et collision
+Citroën DS3,"202,500",2017,"118,000",Autres,5,Essence,5,Automatic,2032750,routiere+options
+Volkswagen New Beetle,"203,500",2012,"129,000",Autres,6,Essence,5,Automatic,4590951,dommage et collision
+Nissan Juke,"204,500",2014,"160,000",Autres,7,Diesel,5,Automatic,4691000,dommage et collision
+Audi A4,"205,500",2016,"150,000",Berline,8,Essence,5,Automatic,1037245,tout risque
+Citroën DS3,"206,500",2017,"62,000",Autres,5,Essence,5,Automatic,2396750,dommage et collision
+Citroën DS3,"207,500",2017,"74,000",Autres,5,Essence,5,Automatic,2397010,dommage et collision
+Jaguar XF,"208,500",2013,"197,000",Berline,15,Essence,5,Automatic,15005230,tout risque
+Mercedes-Benz Classe E,"209,500",2013,"121,000",Berline,8,Diesel,5,Automatic,10200000,tout risque
+BMW Série 4 Gran Coupé,"210,500",2017,"87,000",Autres,7,Essence,5,Automatic,9582000,tout risque
+Chevrolet Captiva,"211,500",2011,"108,000",4 x 4,10,Diesel,5,Automatic,10501420,tout risque
+Land Rover Discovery,"212,500",2017,"123,000",4 x 4,8,Diesel,5,Automatic,10200444,tout risque
+Audi A6,"213,500",2014,"98,000",Berline,10,Essence,5,Automatic,5000710,dommage et collision
+MG GS,"214,500",2017,"81,000",4 x 4,9,Essence,5,Automatic,5000222,dommage et collision
+Ford Fiesta,"215,500",2016,"79,000",Autres,5,Essence,5,Automatic,2428707,dommage et collision
+Porsche Cayenne,"216,500",2011,"175,000",4 x 4,21,Essence,5,Automatic,20225290,tout risque
+Citroën C-Elysée,"217,500",2018,"60,000",Berline,5,Essence,5,Automatic,2428807,dommage et collision
+Citroën C3,"218,500",2018,"60,000",Compacte,4,Essence,5,Automatic,5882033,tout risque
+Mercedes-Benz Classe E coupé,"219,500",2010,"220,000",Coupé,14,Diesel,5,Automatic,6750113,tout risque
+KIA Sportage,"220,500",2010,"220,000",4 x 4,10,Diesel,5,Automatic,5270622,dommage et collision
+Hyundai Accent,"221,500",2015,"200,000",Berline,6,Essence,5,Automatic,3976066,dommage et collision
+Renault Clio,"222,500",2015,"85,000",Citadine,5,Essence,5,Automatic,2426403,dommage et collision
+BMW Série 5,"223,500",2017,"79,000",Berline,9,Essence,5,Automatic,10421210,tout risque
+Mercedes-Benz Classe C,"224,500",2011,"170,000",Cabriolet,11,Essence,5,Automatic,10594200,tout risque
+BMW Série 3,"225,500",2015,"120,000",Berline,7,Essence,5,Automatic,4120221,dommage et collision
+Ford Ranger,"226,500",2009,"335,000",4 x 4,10,Diesel,5,Automatic,10481213,tout risque
+Volkswagen Passat,"227,500",2002,"240,000",Berline,8,Diesel,5,Automatic,10330460,tout risque
+Volkswagen Passat,"228,500",2016,"128,000",Berline,7,Essence,5,Automatic,5065230,dommage et collision
+BMW Série 3,"229,500",2016,"50,000",Berline,7,Essence,5,Automatic,5065120,dommage et collision
+Mercedes-Benz Classe A,"230,500",2014,"140,000",Citadine,6,Essence,5,Automatic,5054311,dommage et collision
+Mercedes-Benz Classe E,"231,500",2017,"27,000",Berline,9,Essence,5,Automatic,5280605,dommage et collision
+Audi A6,"232,500",2011,"230,000",Berline,12,Essence,5,Automatic,11251320,tout risque
+Porsche Panamera,"233,500",2011,"150,000",Berline,41,Essence,5,Automatic,45875321,tout risque
+Honda Civic,"234,500",2017,"150,000",Berline,10,Essence,5,Automatic,10871213,tout risque
+Chevrolet Cruze,"235,500",2018,"54,000",Berline,7,Essence,5,Automatic,10559913,tout risque
+Skoda Octavia,"236,500",2017,"160,000",Citadine,7,Essence,5,Automatic,2106276,routiere+options
+Volkswagen Polo,"237,500",2019,"60,000",Compacte,4,Essence,5,Automatic,6282052,tout risque
+Volkswagen Golf 7,"238,500",2014,"130,000",Compacte,6,Essence,5,Automatic,8352133,tout risque
+Ford Ranger,"239,500",2014,"128,000",Pick up,7,Diesel,5,Automatic,4698995,routiere+options
+BMW X1,"240,500",2017,"140,000",Monospace,7,Essence,5,Automatic,4715956,routiere+options
+BMW Série 3,"241,500",2014,"200,000",Berline,7,Essence,5,Automatic,5075456,dommage et collision
+Renault Fluence,"242,500",2011,"130,000",Berline,7,Essence,5,Automatic,5079956,dommage et collision
+KIA Sorento,"243,500",2008,"120,000",4 x 4,14,Essence,5,Automatic,40975200,tout risque
+Renault Clio,"244,500",2017,"100,000",Citadine,5,Essence,5,Automatic,2062403,routiere+options
+Ssangyong Tivoli,"245,500",2019,"70,000",4 x 4,8,Essence,5,Automatic,10961210,tout risque
+Volkswagen Caddy,"246,500",2017,"150,000",Autres,5,Essence,5,Automatic,2092533,routiere+options
